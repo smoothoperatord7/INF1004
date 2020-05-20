@@ -9,3 +9,8 @@ Java
 Kotlin
 Python
 C#
+JQuery
+Bootstrap
+HTML
+CSS
+Javascript
