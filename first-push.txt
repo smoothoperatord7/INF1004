@@ -1,0 +1,11 @@
+Angular
+React
+MongoDB
+FireBase
+Oracle
+MySQL
+SQL Server
+Java
+Kotlin
+Python
+C#
